@@ -1,0 +1,26 @@
+/* responsive.css */
+
+/* Styles for tablets and larger screens */
+@media (min-width: 600px) {
+    .product-container {
+        justify-content: center; /* Center the products horizontally */
+    }
+
+    .product {
+        width: calc(50% - 20px);
+    }
+}
+
+/* Styles for desktop screens */
+@media (min-width: 1024px) {
+    .product {
+        width: calc(25% - 20px);
+    }
+}
+
+/* Styles for mobile screens */
+@media (max-width: 599px) {
+    .product {
+        width: calc(50% - 20px);
+    }
+}
