@@ -14,7 +14,7 @@
         <h1>BAITTUL MUSLIM</h1>
         <nav>
             <ul>
-                <li><a href="#">bluemosque</a></li>
+                <li><a href="https://baittul.github.io/Shopcard/">bluemosque</a></li>
                 <li><a href="#">vid</a></li>
             </ul>
         </nav>
